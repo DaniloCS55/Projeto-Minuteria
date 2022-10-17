@@ -8,4 +8,6 @@ Para simulação do projeto foi utilizado o software PROTEUS.
 
 ![alt text](https://github.com/DaniloCS55/Projeto-Minuteria/blob/main/Projeto%20Minuteria_Simula%C3%A7%C3%A3o.jpeg)<br /><br />
 
+PARTICIPANTES: Arthur Henrique, Danilo Costa, Icaro Leandro e Luis Jhoseas.
+
 
